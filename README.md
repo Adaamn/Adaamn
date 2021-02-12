@@ -5,6 +5,7 @@
 ## Social Networks
 - 💬 `Discord` - **Adaamn#7384**
 - 📱 `Instagram` - **[adaamn._](https://instagram.com/adaamn._)**
+- ⌨️ `Twitter` - **[AdaamCZ](https://twitter.com/AdaamCZ)**
 
 ## Finished
 - 🤖 Discord bot **AdaamnBOT** created in `Node.js` using [VSCode](https://code.visualstudio.com/)
