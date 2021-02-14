@@ -10,5 +10,5 @@
 ## Finished
 - 🤖 Discord bot **AdaamnBOT** created in `JavaScript` using [VSCode](https://code.visualstudio.com/)
 
-## In process..
+## Unfinished
 - 🤖 Discord bot **Smurp** created in `JavaScript` on commands, embed messages, music and much more
