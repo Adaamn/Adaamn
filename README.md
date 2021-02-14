@@ -8,7 +8,7 @@
 - ⌨️ `Twitter` - **[AdaamCZ](https://twitter.com/AdaamCZ)**
 
 ## Finished
-- 🤖 Discord bot **AdaamnBOT** created in `Node.js` using [VSCode](https://code.visualstudio.com/)
+- 🤖 Discord bot **AdaamnBOT** created in `JavaScript` using [VSCode](https://code.visualstudio.com/)
 
 ## In process..
 - 🤖 Discord bot **Smurp** created in `JavaScript` on commands, embed messages, music and much more
