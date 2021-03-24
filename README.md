@@ -1,6 +1,6 @@
 # Adaamn 🐦
 
-- 📚 I’m currently learning `Java, JavaScript`
+- 📚 I’m currently learning `Java`, `JavaScript`
 
 ## Social Networks
 - 💬 `Discord` - **Adaamn#7384**
@@ -9,4 +9,5 @@
 - ⌨️ `Twitter` - **[AdaamCZ](https://twitter.com/AdaamCZ)**
 
 ## Projects
-- 🤖 Discord bot **[Smurp](https://top.gg/bot/809352398366703617)** created in `JavaScript` on fun commands, memes, music and much more
+- 🤖 Discord bot **[Smurp](https://discord.com/invite/de6G7UPHaR)** created for fun commands, memes, music and much more.
+- 🌐 My own personal [website](http://www.adaamn.borec.cz/) created in `Html`, `Css`.
