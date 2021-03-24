@@ -9,4 +9,4 @@
 - ⌨️ `Twitter` - **[AdaamCZ](https://twitter.com/AdaamCZ)**
 
 ## Projects
-- 🤖 Discord bot **[Smurp](https://discord.com/invite/de6G7UPHaR)** created in `JavaScript` on fun commands, memes, music and much more
+- 🤖 Discord bot **[Smurp](https://top.gg/bot/809352398366703617)** created in `JavaScript` on fun commands, memes, music and much more
