@@ -3,7 +3,8 @@
 - 📚 I’m currently learning `Java`, `JavaScript`
 
 ## Social Networks
-- 📢 `Discord server` - **[discord.com/fnTrjJeprn](https://discord.com/invite/fnTrjJeprn)**
+- 📢 `Discord` - **Adamsn#2467**
+- 📱 `Instagram` - **[Adaamn](https://www.instagram.com/adaamn2nd/)**
 - ⌨️ `Twitter` - **[AdaamCZ](https://twitter.com/AdaamCZ)**
 
 ## Projects
