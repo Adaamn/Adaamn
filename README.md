@@ -1,4 +1,4 @@
-# Adaamn 🐦
+# Adaamn
 
 - 📚 I’m currently learning `Java`, `JavaScript`
 
