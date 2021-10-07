@@ -1,12 +1,15 @@
 # Adaamn
 
-- 📚 I’m currently learning `Java`, `JavaScript`
+- 📚 I’m learning `Java`, `JavaScript`
 
 ## Social Networks
-- 📢 `Discord` - **Adamsn#2467**
+- 📢 `Discord` - **Adaamn#2467**
 - 📱 `Instagram` - **[Adaamn](https://www.instagram.com/adaamn2nd/)**
-- ⌨️ `Twitter` - **[AdaamCZ](https://twitter.com/AdaamCZ)**
+- ⌨️ `Twitter` - **[AdaamnHD](https://twitter.com/AdaamnHD)**
 
 ## Projects
-- 🤖 Discord bot **[Smurp](https://discord.com/invite/de6G7UPHaR)** created for fun commands, memes, music and much more.
-- 🌐 My own personal [website](http://www.adaamn.borec.cz/) created in `Html`, `Css`.
+- 🤖 My personal discord bot **Sova** created in `JavaScript` for useful commands
+- 🌐 My own personal [website](http://www.adaamn.borec.cz/) created in `Html`, `Css`
+
+## Ended
+- 🤖 Discord bot **Smurp** created in `JavaScript`
