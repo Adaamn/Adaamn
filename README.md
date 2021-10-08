@@ -8,7 +8,7 @@
 - ⌨️ `Twitter` - **[AdaamnHD](https://twitter.com/AdaamnHD)**
 
 ## Projects
-- 🤖 My personal discord bot **AdamBot** created in `JavaScript` for useful commands
+- 🤖 My personal discord bot **AdamBot** created in `JavaScript` for useful moderation commands
 - 🌐 My own personal [website](http://www.adaamn.borec.cz/) created in `Html`, `Css`
 
 ## Ended
