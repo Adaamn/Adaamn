@@ -1,7 +1,4 @@
 # Adaamn
-
-- 📚 I’m learning `Java`, `JavaScript`
-
 ## Social Networks
 - `Discord` - **Adaamn#2467**
 - `Instagram` - **[adaamn.mc](https://www.instagram.com/adaamn.mc/)**
