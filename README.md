@@ -14,4 +14,3 @@
 ## Social Networks
 - `Discord` - **Adaamn#2467**
 - `Instagram` - **[adaamn.mc](https://www.instagram.com/adaamn.mc/)**
-- `Twitter` - **[TheAdamCZ](https://twitter.com/TheAdamCZ)**
