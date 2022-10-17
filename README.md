@@ -1,11 +1,10 @@
-# Adaamn
+# Adaamn ⛑
 - 👨‍💻 I'm working on minecraft plugins using [BukkitAPI](https://www.spigotmc.org/)
 
-## Projects / Ended
-- My personal discord bot **AdamBot** created in `JavaScript` for useful moderation commands
-- My own personal [website](http://www.adaamn.borec.cz/) created in `Html`, `Css`
-##
-- 🤖 Discord bot **Smurp** created in `JavaScript`
+## Projects 
+- My discord bot **AdamBot** created in `JavaScript` for useful crypto and moderation commands
+- My personal [website](http://www.adaamn.borec.cz/) created in `Html`, `Css`
+- ~~🤖 Discord bot **~~Smurp~~** created in `JavaScript`~~ **(Ended)**
 
 ## IDE
 - Java - IntelliJ IDEA, Eclipse
@@ -13,4 +12,4 @@
 
 ## Social Networks
 - `Discord` - **Adaamn#2467**
-- `Instagram` - **[adaamn.mc](https://www.instagram.com/adaamn.mc/)**
+- `Instagram` - **[adaamn2nd](https://www.instagram.com/adaamn2nd/)**
