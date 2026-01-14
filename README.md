@@ -2,4 +2,4 @@
 - stay hydrated
 
 ## Projects
-- :robot: Discord bot [**Sirbo**](https://discord.gg/9c8jQ7bFa4) created in `Python` for crypto, fun and moderation commands
+- :robot: Discord bot [**Sirbo**](https://discord.com/oauth2/authorize?client_id=1340592747681419335&scope=bot&permissions=8) created in `Python` for crypto, fun and moderation commands
